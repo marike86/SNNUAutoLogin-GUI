@@ -1,6 +1,18 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mzh2077/SNNUAutoLogin-GUI/main/Assets/app_256.png" width="96" height="96" alt="SNNUAutoLogin-GUI 应用图标">
+</p>
+
 # SNNUAutoLogin-GUI
 
 陕师大校园网自动登录客户端。使用 WinUI 3 构建，可在 Windows 托盘后台运行，支持开机登录、断线重连和按网络场景切换账号。
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows-10%202004%2B%20%7C%2011-0078D4" alt="Windows 10 2004 及以上或 Windows 11">
+  <img src="https://img.shields.io/badge/.NET-8.0-512BD4" alt=".NET 8.0">
+  <img src="https://img.shields.io/badge/WinUI-3%20%2F%20Windows%20App%20SDK%201.8-0067C0" alt="WinUI 3 与 Windows App SDK 1.8">
+  <img src="https://img.shields.io/badge/self--contained-%E6%97%A0%E9%9C%80%E8%BF%90%E8%A1%8C%E5%BA%93-2E7D32" alt="发布包自带运行时">
+  <a href="https://github.com/mzh2077/SNNUAutoLogin-GUI/releases/latest"><img src="https://img.shields.io/github/v/release/mzh2077/SNNUAutoLogin-GUI?label=version&amp;color=E05D29" alt="最新正式版本"></a>
+</p>
 
 [下载最新版](https://github.com/mzh2077/SNNUAutoLogin-GUI/releases/latest) · [查看更新记录](https://github.com/mzh2077/SNNUAutoLogin-GUI/releases) · [反馈问题](https://github.com/mzh2077/SNNUAutoLogin-GUI/issues)
 
